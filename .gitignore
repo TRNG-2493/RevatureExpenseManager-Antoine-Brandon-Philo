@@ -1,0 +1,8 @@
+__pycache__
+logs/
+target/
+*.class
+.vscode
+.venv
+.idea
+.pytest_cache
